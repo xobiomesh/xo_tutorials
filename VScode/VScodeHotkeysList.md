@@ -1,4 +1,4 @@
-# Visual Studio Code Keyboard Shortcuts
+# Visual Studio Code Keyboard Shortcuts (AI generatedlist)
 
 ## 1. Basic Navigation
 - **Open Command Palette**: `Ctrl+Shift+P` / `F1`
